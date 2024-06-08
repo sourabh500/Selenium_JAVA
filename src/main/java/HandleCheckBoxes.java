@@ -41,10 +41,6 @@ public class HandleCheckBoxes {
         }
 
 
-
-
-
-
     }
 
     }
